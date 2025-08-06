@@ -1,2 +1,0 @@
-# MyBankQueueSystem
-my java code
